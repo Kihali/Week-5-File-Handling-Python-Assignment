@@ -1,0 +1,6 @@
+This is the first line of text.
+The number of students is 25.
+Python programming is fun.
+This is an appended line.
+There are 42 apples.
+Learning file handling in Python.
